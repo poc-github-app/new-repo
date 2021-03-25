@@ -6,6 +6,6 @@ metadata:
   description: APPLICATION_DESCRIPTION
 spec:
   type: UNKNOWN
-  lifecycle: UNKNOWN
+  lifecycle: experimental
   owner:
   - APPLICATION OWNER
