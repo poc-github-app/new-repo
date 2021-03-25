@@ -8,4 +8,4 @@ spec:
   type: UNKNOWN
   lifecycle: production
   owner:
-  - APPLICATION OWNER
+   - APPLICATION OWNER
