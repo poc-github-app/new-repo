@@ -15,7 +15,8 @@ spec:
   type: website
   lifecycle: production
   owner:
-    - project-python@stone.com.br
+    - ronaldo.tsilva@stone.com.br
+    - romulo.fraga@stone.com.br
   authentication: idm
   authorization: idm
   pagerduty: pd-service-named
