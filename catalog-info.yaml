@@ -4,14 +4,6 @@ kind: Component
 metadata:
   namespace: atlas
   name: atlas-backend
-  description: |
-    Resource manifest app é uma ferramenta para identificar, carregar 
-    e salvar informações dos manifests no bigquery.
-  compliance:
-    gui: false
-    sox: none
-    pci: pci-extended
-    processPersonalData: false
   labels:
     lifecycle: production
   tags:
@@ -28,15 +20,6 @@ spec:
   authorization: idm
   pagerduty: pd-service-named
   operationalDate: abril
-  infraestructure:
-    datacenter:
-      - qts_atlanta:
-          host_pattern: cbk-v-ingp-*
-    cloud:
-      - azure:
-          subscription: ...
-      - google:
-          project: ...
   pipeline:
     url: url-pipeline.com.br
     project: project-name
