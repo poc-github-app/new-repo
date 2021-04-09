@@ -16,6 +16,7 @@ spec:
   lifecycle: production
   owner:
     - ronaldo.tsilva@stone.com.br
+    - adrielle.nunes@cappta.com.br
   authentication: idm
   authorization: idm
   pagerduty: pd-service-named
